@@ -1,7 +1,7 @@
 import { Container, Navbar, Nav } from "react-bootstrap";
 import { Facebook, Instagram, Whatsapp } from "react-bootstrap-icons";
 
-import "bootstrap/dist/css/bootstrap.min.css";
+// import "bootstrap/dist/css/bootstrap.min.css";
 // import "./App.scss";
 
 export default function Header() {

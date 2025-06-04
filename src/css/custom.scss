@@ -1,13 +1,13 @@
 
 @import "/node_modules/bootstrap/scss/bootstrap";
+// @import "bootstrap-icons/font/bootstrap-icons";
 @import 'colors';
-@import "bootstrap-icons/font/bootstrap-icons";
 
 
 
 $display-font-sizes: (
-    1: 6rem,
-    // 6: 0.5px
+    1: 15rem,
+    6: 1rem
 );
 
 $display-font-weight: 700;
@@ -16,19 +16,20 @@ $display-font-weight: 700;
 
 // h1 {
 //     color: $colombia-red;
+//     font-size: 10rem;
 // }
 
 
     
-.bi-instagram {
-    color: $colombia-yellow;
- }    
-.bi-facebook {
-    color: $colombia-blue;
- }    
-.bi-whatsapp {
-    color: $colombia-red;
- }    
+// .bi-instagram {
+//     color: $colombia-yellow;
+//  }    
+// .bi-facebook {
+//     color: $colombia-blue;
+//  }    
+// .bi-whatsapp {
+//     color: $colombia-red;
+//  }    
  
 
 // @import "/node_modules/bootstrap-icons/font/bootstrap-icons";
