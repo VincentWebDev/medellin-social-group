@@ -1,5 +1,5 @@
 import { Container, Row, Col, ProgressBar } from "react-bootstrap";
-import Header from "./components/Header.jsx";
+import Header from "./Components/Header";
 import "bootstrap/dist/css/bootstrap.min.css";
 // import "./App.scss";
 import "./css/custom.scss";
