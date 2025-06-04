@@ -1,5 +1,5 @@
 import { Container, Row, Col, ProgressBar } from "react-bootstrap";
-// import Header from "./components/Header";
+import Header from "./components/Header";
 import "bootstrap/dist/css/bootstrap.min.css";
 // import "./App.scss";
 import "./css/custom.scss";
@@ -9,7 +9,9 @@ function App() {
   const now = 10;
   return (
     <>
-      <Container>{/* <Header></Header> */}</Container>
+      <Container>
+        <Header></Header>
+      </Container>
       <Container className="d-flex h-100  justify-content-center align-items-center">
         <Row className="d-flex w-75">
           <Col>
