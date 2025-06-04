@@ -1,0 +1,34 @@
+
+@import "/node_modules/bootstrap/scss/bootstrap";
+@import 'colors';
+@import "bootstrap-icons/font/bootstrap-icons";
+
+
+
+$display-font-sizes: (
+    1: 6rem,
+    // 6: 0.5px
+);
+
+$display-font-weight: 700;
+
+// $primary: red;
+
+h1 {
+    // color: $colombia-red;
+}
+
+
+    
+.bi-instagram {
+    color: $colombia-yellow;
+ }    
+.bi-facebook {
+    color: $colombia-blue;
+ }    
+.bi-whatsapp {
+    color: $colombia-red;
+ }    
+ 
+
+// @import "/node_modules/bootstrap-icons/font/bootstrap-icons";
