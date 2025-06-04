@@ -1,6 +1,6 @@
 import { Container, Row, Col, ProgressBar } from "react-bootstrap";
 import Header from "./Components/Header";
-import Hero from "./components/Hero";
+import Hero from "./Components/Hero";
 import "bootstrap/dist/css/bootstrap.min.css";
 // import "./css/custom.scss";
 // import "./css/App.scss";
