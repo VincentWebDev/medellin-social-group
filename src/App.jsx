@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import "bootstrap/dist/css/bootstrap.min.css";
 // import "./App.scss";
 import "./css/custom.scss";
-// import "./App.css";
+import "./App.css";
 
 function App() {
   const now = 10;
